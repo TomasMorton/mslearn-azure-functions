@@ -4,11 +4,11 @@ Code samples developed for the ["Create serverless applications"](https://docs.m
 # Tools and Setup
 | Tool | CLI | Installation |
 |-|-|-|
-| Azure CLI | `az | https://docs.microsoft.com/en-us/cli/azure/install-azure-cli |
+| Azure CLI | `az` | https://docs.microsoft.com/en-us/cli/azure/install-azure-cli |
 | Azure Functions Core Tools | `func` | https://docs.microsoft.com/en-us/azure/azure-functions/functions-run-local |
 | Azure Toolkit for Rider | - | https://plugins.jetbrains.com/plugin/11220-azure-toolkit-for-rider |
 
-##
+## Completing Installation
 Once `az` is installed, run `az login`
 
 # Useful Commands
